@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset kind="glass" tier="GitHub 连接验证">
+    <p k="blurRadiusPx" name="模糊半径" v="40" />
+    <p k="cornerRadiusDp" name="圆角" v="24" />
+</preset>
