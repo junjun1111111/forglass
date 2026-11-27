@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset kind="glass" tier="DarkSmall">
+    <p k="cornerRadiusDp" name="圆角(dp)" v="24" />
+    <p k="cornerSmoothnessPct" name="肩部平滑%(0=纯圆)" v="50" />
+    <p k="cardWidthDp" name="卡片宽度(dp)" v="240" />
+    <p k="cardHeightDp" name="卡片高度(dp)" v="200" />
+    <p k="strokeWidthDp" name="描边宽度(dp)" v="1" />
+    <p k="strokeSoftnessPx" name="描边羽化 softness(px)" v="3" />
+    <p k="strokeIntensityPct" name="描边亮度%" v="30" />
+    <p k="strokeSpreadX10" name="描边长度(10长..80短)" v="50" />
+    <p k="darkWidthPx" name="边宽度(px,暗边+浅灰圈)" v="1" />
+    <p k="edgeColorArgb" name="浅灰边颜色(#AARRGGBB)" v="#33CCCCCC" />
+    <p k="darkColorArgb" name="暗边颜色(#AARRGGBB)" v="#4DD0D0D0" />
+    <p k="ambientPct" name="背光暗边%" v="100" />
+    <p k="light0Deg" name="主光方向°(270=上下亮)" v="270" />
+    <p k="light1Deg" name="辅光方向°" v="45" />
+    <p k="anisoRim" name="各向异性描边" v="开" />
+    <p k="innerRadiusDp" name="内阴影深度(dp)" v="28" />
+    <p k="innerIntensityPct" name="内阴影强度%" v="20" />
+    <p k="innerAlphaPct" name="内阴影透明度%" v="55" />
+    <p k="innerRgb" name="内阴影颜色(#RRGGBB)" v="#1A1A1A" />
+    <p k="innerEnabled" name="内阴影开关" v="true" />
+    <p k="innerOffsetX" name="内阴影偏移X(px)" v="0.0" />
+    <p k="innerOffsetY" name="内阴影偏移Y(px)" v="0.0" />
+    <p k="innerDarkOn" name="暗层开关" v="true" />
+    <p k="innerDarkColor" name="暗层颜色(ARGB)" v="0" />
+    <p k="innerDarkRange" name="暗层范围(px,-1跟随)" v="16.25" />
+    <p k="innerLightColor" name="亮层上端颜色(ARGB,0跟随)" v="0" />
+    <p k="innerLightBottomColor" name="亮层下端颜色(ARGB,0跟随)" v="0" />
+    <p k="innerSoftness" name="亮层羽化(px,-1自动)" v="45.0" />
+    <p k="innerLightTopRange" name="亮层上端范围(px,-1跟随)" v="10.0" />
+    <p k="innerLightBottomRange" name="亮层下端范围(px,-1跟随)" v="6.0" />
+    <p k="innerLayersEnabled" name="内阴影多层开关" v="true" />
+    <p k="strokeRunMin" name="描边直边收尾门限(px)" v="40.0" />
+    <p k="strokeLayersEnabled" name="描边多层开关" v="false" />
+    <p k="innerLayer0On" name="innerLayer0 开关" v="true" />
+    <p k="innerLayer0Color" name="innerLayer0 颜色(ARGB)" v="1202959283" />
+    <p k="innerLayer0Mode" name="innerLayer0 混合模式" v="5" />
+    <p k="innerLayer0Region" name="innerLayer0 作用区域" v="1" />
+    <p k="innerLayer1On" name="innerLayer1 开关" v="false" />
+    <p k="innerLayer1Color" name="innerLayer1 颜色(ARGB)" v="0" />
+    <p k="innerLayer1Mode" name="innerLayer1 混合模式" v="7" />
+    <p k="innerLayer1Region" name="innerLayer1 作用区域" v="1" />
+    <p k="innerLayer2On" name="innerLayer2 开关" v="false" />
+    <p k="innerLayer2Color" name="innerLayer2 颜色(ARGB)" v="0" />
+    <p k="innerLayer2Mode" name="innerLayer2 混合模式" v="7" />
+    <p k="innerLayer2Region" name="innerLayer2 作用区域" v="1" />
+    <p k="innerLayer3On" name="innerLayer3 开关" v="true" />
+    <p k="innerLayer3Color" name="innerLayer3 颜色(ARGB)" v="2500134" />
+    <p k="innerLayer3Mode" name="innerLayer3 混合模式" v="1" />
+    <p k="innerLayer3Region" name="innerLayer3 作用区域" v="0" />
+    <p k="innerLayer4On" name="innerLayer4 开关" v="false" />
+    <p k="innerLayer4Color" name="innerLayer4 颜色(ARGB)" v="0" />
+    <p k="innerLayer4Mode" name="innerLayer4 混合模式" v="1" />
+    <p k="innerLayer4Region" name="innerLayer4 作用区域" v="0" />
+    <p k="innerLayer5On" name="innerLayer5 开关" v="false" />
+    <p k="innerLayer5Color" name="innerLayer5 颜色(ARGB)" v="0" />
+    <p k="innerLayer5Mode" name="innerLayer5 混合模式" v="1" />
+    <p k="innerLayer5Region" name="innerLayer5 作用区域" v="0" />
+    <p k="innerLayer6On" name="innerLayer6 开关" v="true" />
+    <p k="innerLayer6Color" name="innerLayer6 颜色(ARGB)" v="2500134" />
+    <p k="innerLayer6Mode" name="innerLayer6 混合模式" v="1" />
+    <p k="innerLayer6Region" name="innerLayer6 作用区域" v="0" />
+    <p k="innerLayer7On" name="innerLayer7 开关" v="false" />
+    <p k="innerLayer7Color" name="innerLayer7 颜色(ARGB)" v="0" />
+    <p k="innerLayer7Mode" name="innerLayer7 混合模式" v="1" />
+    <p k="innerLayer7Region" name="innerLayer7 作用区域" v="0" />
+    <p k="innerLayer8On" name="innerLayer8 开关" v="false" />
+    <p k="innerLayer8Color" name="innerLayer8 颜色(ARGB)" v="0" />
+    <p k="innerLayer8Mode" name="innerLayer8 混合模式" v="1" />
+    <p k="innerLayer8Region" name="innerLayer8 作用区域" v="0" />
+    <p k="strokeLayer0On" name="strokeLayer0 开关" v="true" />
+    <p k="strokeLayer0Color" name="strokeLayer0 颜色(ARGB)" v="0" />
+    <p k="strokeLayer0Mode" name="strokeLayer0 混合模式" v="1" />
+    <p k="strokeLayer0Region" name="strokeLayer0 作用区域" v="0" />
+    <p k="strokeLayer1On" name="strokeLayer1 开关" v="false" />
+    <p k="strokeLayer1Color" name="strokeLayer1 颜色(ARGB)" v="0" />
+    <p k="strokeLayer1Mode" name="strokeLayer1 混合模式" v="1" />
+    <p k="strokeLayer1Region" name="strokeLayer1 作用区域" v="0" />
+    <p k="strokeLayer2On" name="strokeLayer2 开关" v="false" />
+    <p k="strokeLayer2Color" name="strokeLayer2 颜色(ARGB)" v="0" />
+    <p k="strokeLayer2Mode" name="strokeLayer2 混合模式" v="1" />
+    <p k="strokeLayer2Region" name="strokeLayer2 作用区域" v="0" />
+    <p k="blurRadiusPx" name="Blur radius" v="18" />
+    <p k="frostPct" name="提亮/磨砂%" v="0" />
+    <p k="refractStrength" name="折射强度(0关)" v="70" />
+    <p k="dispersionPx" name="边缘色散(0关,px)" v="3" />
+    <p k="refractWidth" name="折射宽度(px)" v="200" />
+    <p k="lensDepthPct" name="透镜凸起%(0边缘..100整片)" v="20" />
+    <p k="blend0_on" name="混色1" v="开" />
+    <p k="blend0_mode" name="混色1 模式" v="Normal" />
+    <p k="blend0_rgb" name="混色1 颜色(#RRGGBB)" v="#000000" />
+    <p k="blend0_alpha" name="混色1 强度%" v="30" />
+    <p k="blend1_on" name="混色2" v="开" />
+    <p k="blend1_mode" name="混色2 模式" v="Plus Lighter" />
+    <p k="blend1_rgb" name="混色2 颜色(#RRGGBB)" v="#FFFFFF" />
+    <p k="blend1_alpha" name="混色2 强度%" v="8" />
+    <p k="blend2_on" name="混色3" v="关" />
+    <p k="blend2_mode" name="混色3 模式" v="Normal" />
+    <p k="blend2_rgb" name="混色3 颜色(#RRGGBB)" v="#FFFFFF" />
+    <p k="blend2_alpha" name="混色3 强度%" v="25" />
+    <p k="wallpaperPresetKey" name="预置壁纸" v="常用|01" />
+</preset>
